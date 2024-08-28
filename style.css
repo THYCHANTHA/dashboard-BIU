@@ -1,0 +1,22 @@
+/* style.css */
+
+body {
+    background-color: #0463deb5;
+}
+
+.sidebar .sidebar-content {
+    background-color: #f9f9f9;
+}
+
+h1 {
+    color: #333;
+}
+
+h2 {
+    color: #555;
+}
+
+.stButton>button {
+    background-color: #007bff;
+    color: rgb(14, 168, 229);
+}

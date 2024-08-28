@@ -1,0 +1,7 @@
+streamlit==1.19.0
+pandas==2.0.3
+mysql-connector-python==8.0.33
+matplotlib==3.7.1
+seaborn==0.12.2
+plotly==5.14.1
+numpy==2.1.0
